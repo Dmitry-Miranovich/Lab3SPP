@@ -1,0 +1,16 @@
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\bin\Debug\net5.0\Lab3SPP.exe
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\bin\Debug\net5.0\Lab3SPP.deps.json
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\bin\Debug\net5.0\Lab3SPP.runtimeconfig.json
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\bin\Debug\net5.0\Lab3SPP.runtimeconfig.dev.json
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\bin\Debug\net5.0\Lab3SPP.dll
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\bin\Debug\net5.0\ref\Lab3SPP.dll
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\bin\Debug\net5.0\Lab3SPP.pdb
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\obj\Debug\net5.0\Lab3SPP.csproj.AssemblyReference.cache
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\obj\Debug\net5.0\Lab3SPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\obj\Debug\net5.0\Lab3SPP.AssemblyInfoInputs.cache
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\obj\Debug\net5.0\Lab3SPP.AssemblyInfo.cs
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\obj\Debug\net5.0\Lab3SPP.csproj.CoreCompileInputs.cache
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\obj\Debug\net5.0\Lab3SPP.dll
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\obj\Debug\net5.0\ref\Lab3SPP.dll
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\obj\Debug\net5.0\Lab3SPP.pdb
+D:\Третий курс\СПП\Lab3SPP\Lab3SPP\obj\Debug\net5.0\Lab3SPP.genruntimeconfig.cache
